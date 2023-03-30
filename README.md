@@ -1,4 +1,4 @@
 # GitCollabo
-깃 팀프로젝트
+테스트용 작업중...
 
 branch merge test
